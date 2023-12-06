@@ -1,5 +1,3 @@
-LAST changes this time
-
 
 here we have other changes
 in the
